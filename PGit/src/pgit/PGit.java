@@ -17,7 +17,7 @@ public class PGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "Hola ");
+        JOptionPane.showMessageDialog(null, "Hola mundo modificado");
     }
     
 }
